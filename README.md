@@ -1,7 +1,7 @@
 # learn-kinetic-typography
 with Three.js
 
-## page
+## demo
 https://ray-zero2.github.io/learn-kinetic-typography/public/
 
 ## reference
